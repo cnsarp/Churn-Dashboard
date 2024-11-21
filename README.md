@@ -11,7 +11,7 @@ and number of tickets opened in the categories administrative and technical
 - Demographic info about customers – gender, age range, and if they have partners and dependents
 
 I've created the dashboard on Power BI: 
-! [View png](./ChurnDashboard.png)
+![View png](./ChurnDashboard.png)
 
 **Here are the key findings:**
 
