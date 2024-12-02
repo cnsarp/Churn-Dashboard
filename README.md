@@ -26,12 +26,12 @@ I've created the dashboard on Power BI:
 - Internet service type differences:
   - Fiber Optic is used by 70% of churned customers and 35% of retained customers.
   - DSL is used by 25% of churned customers and 38% of retained customers.
- - 
--Overall service adoption rates among all customers:
-   - 39% stream movies and TV.
-   - 29% use tech support.
-   - 35% have online backup and device protection.
-   - 29% have online security.
+   
+- Overall service adoption rates among all customers:
+  - 39% stream movies and TV.
+  - 29% use tech support.
+  - 35% have online backup and device protection.
+  - 29% have online security.
 
 
 
