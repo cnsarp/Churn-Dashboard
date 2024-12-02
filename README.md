@@ -1,6 +1,6 @@
 # CUSTOMER CHURN DASHBOARD
 
-The dataset is provided by the company in Excel. 
+This is part of the Forage Job Simulation and the dataset is provided by PWC Switzerland in Excel. 
 
  Dataset includes: 
 - Customers who left within the last month
