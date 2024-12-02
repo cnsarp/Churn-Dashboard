@@ -26,8 +26,8 @@ I've created the dashboard on Power BI:
  - In 2019, females and males scored average performance rates of 2.56 and 2.58, respectively.
  - By 2020, both genders had an equal average performance rate of 2.41.
 - 2020 Hiring and Turnover:
- - 34 new female employees and 22 males were hired.
- - 21 females and 26 males left the company.
+   - 34 new female employees and 22 males were hired.
+   - 21 females and 26 males left the company.
 - The overall turnover rate for 2020 was 9.4%.
 - Promotions:
  - In 2020, 3.9% of females and 9.5% of males were promoted.
