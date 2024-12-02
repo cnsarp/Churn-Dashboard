@@ -24,14 +24,14 @@ I've created the dashboard on Power BI:
 - Month-to-month contracts are highly preferred by churned customers (89%) compared to 42% of retained customers.
 - In general, paperless billing is popular: 53% of retained customers and 75% of churned customers use it.
 - Internet service type differences:
-
- - Fiber Optic is used by 70% of churned customers and 35% of retained customers.
- - DSL is used by 25% of churned customers and 38% of retained customers.
+  - Fiber Optic is used by 70% of churned customers and 35% of retained customers.
+  - DSL is used by 25% of churned customers and 38% of retained customers.
+ - 
 -Overall service adoption rates among all customers:
-  - 39% stream movies and TV.
-  - 29% use tech support.
-  - 35% have online backup and device protection.
-  - 29% have online security.
+   - 39% stream movies and TV.
+   - 29% use tech support.
+   - 35% have online backup and device protection.
+   - 29% have online security.
 
 
 
