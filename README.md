@@ -10,7 +10,7 @@ support, and streaming TV and movies
 and number of tickets opened in the categories administrative and technical
 - Demographic info about customers – gender, age range, and if they have partners and dependents
 
- [Dataset](./Churn-Dataset.xlsx)
+ [Dataset](./02%20Churn-Dataset.xlsx)
 
 I've created the dashboard on Power BI: 
 ![View png](./ChurnDashboard.png)
